@@ -1,2 +1,2 @@
-# jstrainnig.md02
-JavaScript Treinos, Modulo 02
+# Projeto página da Rocketseat
+:memo: Página da RocketSeat, feita com Js
